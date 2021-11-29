@@ -18,33 +18,22 @@
 
 ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
 
-<img src="https://profile-counter.glitch.me/PrerakGada/count.svg" height=32 />
+<br>
 
-<br>
-<br>
 <!-- <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="https://jhenilparihar.github.io/resume-website/"> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span> -->
 
-<br>
-<br>
 
 <!-- <a href="https://PrerakGada.github.io/resume-website/">Check Out My Website</a> -->
 
-Hi, i'm Prerak Gada, a passionate <!--self-taught--> Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-<a href="https://jhenilparihar.github.io/resume-website/">
-<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="370" height="270" /> -->
-</a>
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Hi, i'm Prerak Gada, a passionate Problem Solver from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <ul>
 <li> 🌱 I’m currently pursuing B.S. in Cyber Security at EC-Council University </li>
-<!-- <li> 💼 any freelance work? do reach, <a href="mailto:prerakgada07@gmail.com">email</a></li> -->
-<li> 💬 Ask me about anything, i am happy to help; </li>
-<li> ⚡ Fun fact : Why developers use dark mode? Because light attracts bugs 😆</li>
+<li> 💼 Wanna colab on Projects? do reach, <a href="mailto:prerakgada07@gmail.com">email</a></li>
+<li> 💬 Ask me about anything, I am happy to help; </li>
+<li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
 </ul>
 
-<p>
   <hr>
 <p>
 <p align="center">
