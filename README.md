@@ -2,13 +2,13 @@
 
 <h1> Hey, I’m Prerak! <a href="https://PrerakGada.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
   
-<a href="https://discord.gg/c5Nnz3hUDu">
+<a href="">
   <img align="left" alt="Prerak | Discord" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/JhenilParihar">
+<a href="https://twitter.com/prerak_gada">
   <img align="left" alt="Prerak | Twitter" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/jhenil-parihar-44051a216">
+<a href="https://www.linkedin.com/in/prerak-gada-54a986199/">
   <img align="left" alt="Prerak | LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://instagram.com/prerak_gada">
@@ -18,7 +18,7 @@
 
 ![counter](https://enn1fxhjqs0lr2a.m.pipedream.net)
 
-<!-- <img src="https://profile-counter.glitch.me/PrerakGada/count.svg" height=32 /> -->
+<img src="https://profile-counter.glitch.me/PrerakGada/count.svg" height=32 />
 
 <br>
 <br>
