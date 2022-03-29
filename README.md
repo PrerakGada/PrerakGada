@@ -1,6 +1,6 @@
 <!-- **PrerakGada/PrerakGada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1> Hey, I’m Prerak! <a href="https://PrerakGada.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<h1> Hey, I’m Prerak! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   
 <a href="">
   <img align="left" alt="Prerak | Discord" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -20,7 +20,7 @@
 
 <br>
 
-<!-- <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="https://jhenilparihar.github.io/resume-website/"> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span> -->
+<!-- <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href = ""> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span> -->
 
 
 <!-- <a href="https://PrerakGada.github.io/resume-website/">Check Out My Website</a> -->
