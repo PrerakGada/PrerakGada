@@ -39,7 +39,7 @@ Hi, i'm Prerak Gada, a passionate Problem Solver from india. My passion for soft
 <p>
 <p align="center">
   <a href="https://PrerakGada.github.io/">
-  <-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=PrerakGada&show_icons=true&theme=tokyonight" /> -->
+  <!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=PrerakGada&show_icons=true&theme=tokyonight" /> -->
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=PrerakGada&theme=tokyonight" />
   </a>
 </p>
