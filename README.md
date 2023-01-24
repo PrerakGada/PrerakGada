@@ -29,7 +29,7 @@
 Hi, i'm Prerak Gada, a passionate Problem Solver from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <ul>
-<li> 🌱 I’m currently pursuing B.Sc. in Cyber Security at EC-Council University </li>
+<li> 🌱 I’m currently pursuing B.E. in Electronics and Computer Science at Atharva College of Engineering </li>
 <li> 💼 Wanna colab on Projects? do reach, <a href="mailto:prerakgada07@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, I am happy to help; </li>
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
