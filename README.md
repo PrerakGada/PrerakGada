@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://prerakgada.in/resume.pdf](https://prerakgada.in/resume.pdf)
 
-- ⚡ Fun fact **Programmers Use Dark Mode, Because Light Attracts Bugs!**
+- ⚡ Fun fact **Programmers Use Dark Mode Because Light Attracts Bugs!**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
